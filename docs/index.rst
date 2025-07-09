@@ -6,7 +6,7 @@ How to Log into Eero Router?
    :caption: Contents: 
 
 
-.. image:: https://fubo-tv-login.readthedocs.io/en/latest/_images/login.gif
+.. image:: https://blogger.googleusercontent.com/img/a/AVvXsEjEwB5i_ql2_SrzY8PX31oFzyzNc8faV1w5-TcfQmA5o3v2fM9YtkdAXMEVZQJ-U-GqRxHl-L5TK_5BNfNdyh688OtLprozrATYBkbT_17IjH4RPIRo3Z28xO1wOqTcvV8OX214f8QZCwXFjnw4fCvsKcbV16jf4l1MDOUVjtHl58inH6zu8KY2vtvHxo4=s302
    :alt: My Project Logo
    :width: 400px
    :align: center
